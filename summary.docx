@@ -1,0 +1,20 @@
+Main task is to build a Machine Learning system that predicts whether an employee is likely to leave the company
+based on factors like job satisfaction, salary, work-life balance, years at the company, and performance ratings.
+
+This analysis examined employee data to understand why employees leave the organization and to identify groups that
+may be at a higher risk of resigning. Overall, 16.12% of employees left the company, meaning approximately 1 in 
+every 6 employees resigned.
+
+The analysis found that employees in the Sales department experienced the highest turnover, with 20.63% leaving the
+organization. Among job roles, Sales Representatives had the highest exit rate at 39.76%, indicating that this group
+may require additional support and retention efforts.
+
+Work-life balance also showed a clear relationship with employee turnover. Employees who reported the lowest work-life
+balance rating had an attrition rate of 31.25%, more than double that of employees with better work-life balance ratings.
+Additionally, employees were most likely to leave during their first one to two years with the company, suggesting that
+the early stages of employment are the most critical for retention.
+
+Several predictive approaches were evaluated to identify employees who may be at risk of leaving. The logistic regression model 
+performed well in identifying potential attrition cases, providing HR with a practical tool to proactively identify 
+high-risk employees and intervene before they resign.
+
