@@ -133,25 +133,6 @@ Employee-Attrition-Prediction/
     └── roc_curve.png
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/Employee-Attrition-Prediction.git
-
-Navigate to the project directory:
-
-cd Employee-Attrition-Prediction
-
-Install dependencies:
-
-pip install -r requirements.txt
-Usage
-
-Run the Jupyter Notebook:
-
-jupyter notebook
-
-or open the notebook using Google Colab and execute the cells sequentially.
-
 Future Improvements
 Hyperparameter tuning using GridSearchCV
 Cross-validation
